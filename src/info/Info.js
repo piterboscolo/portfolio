@@ -29,8 +29,8 @@ of what each of the values mean.
 export const info = {
     firstName: "Murilo",
     lastName: "Boscolo",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "backend Developer",
+    initials: "mb", // the example uses first and last, but feel free to use three or more if you like.
+    position: "backend developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -45,7 +45,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "analista de Suporte"
+            text: "analista de suporte e infraestrutura"
         },
         {
             emoji: "📧",
@@ -54,25 +54,26 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://instagram.com",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
-        {
             link: "https://github.com/piterboscolo",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/murilo-boscolo-b640b9139/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
+        // {
+        //     link: "https://facebook.com",
+        //     icon: 'fa fa-facebook',
+        //     label: 'facebook'
+        // },
+        // {
+        //     link: "https://instagram.com",
+        //     icon: 'fa fa-instagram',
+        //     label: 'instagram'
+        // },
+        
         
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
