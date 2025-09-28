@@ -88,12 +88,12 @@ export const info = {
     ,
     hobbies: [
         {
-            label: 'família',
-            emoji: '👨‍👩‍👧‍👦'
+            label: 'Deus',
+            emoji: '✝️'
         },
         {
-            label: 'leitura',
-            emoji: '📖'
+            label: 'família',
+            emoji: '👨‍👩‍👧‍👦'
         },
         {
             label: 'música',
